@@ -11,11 +11,17 @@ Descargamos el fichero ISO de la herramienta
 
 Descargada de este enlace: [pincha aqui](https://www.microsoft.com/es-es/software-download/windows10).
 
-![](C:\PrimerRepoGIT\img\img01.png)
+![](img/img01.png)
 
 
 
 Al iniciar el programa MediaCreationTools
+
+Aparece el siguiente asistente
+
+![](img/img02.png)
+
+
 
 
 
