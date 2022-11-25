@@ -11,7 +11,7 @@ Descargamos el fichero ISO de la herramienta
 
 Descargada de este enlace: [pincha aqui](https://www.microsoft.com/es-es/software-download/windows10).
 
-![](img/img01.png)
+![](img\img01.png)
 
 
 
