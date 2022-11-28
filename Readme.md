@@ -21,7 +21,30 @@ Aparece el siguiente asistente
 
 ![](img/img02.png)
 
+Aceptamos el acuerdo de licencia: 
+
+![](img/img03.png)
+
+![](img/img04.png)
+
+Seleccionamos ``Create installation media (USB flash drive, DVD, or ISO file) for another PC``
+
+
+
+![](img/img05.png)
+
+
+
+![](img/img06.png)
+
+![](img/img07.png)
 
 
 
 
+
+![](img/img08.png)
+
+![](img/img09.png)
+
+Hasta aqui, la creación del fichero ISO y ya podremos utilizarlo en virtualBox para crear nuestra maquina virtual de Windows 10.
