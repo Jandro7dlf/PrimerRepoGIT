@@ -29,3 +29,9 @@ Comprobar la nueva red que les hemos asignado con *ipconfig* y *ifconfig*.
 WINDOWS SERVER 2019
 
 ![](img/foto4.png)
+
+
+
+# Adaptador Puente
+
+![](C:\PrimerRepoGIT\img\AdaptadorPuente.png)
