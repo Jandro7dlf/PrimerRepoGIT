@@ -34,4 +34,4 @@ WINDOWS SERVER 2019
 
 # Adaptador Puente
 
-![](C:\PrimerRepoGIT\img\AdaptadorPuente.png)
+![](img/AdaptadorPuente.png)
